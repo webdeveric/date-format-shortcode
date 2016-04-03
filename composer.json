@@ -1,0 +1,22 @@
+{
+  "name": "webdeveric/date-format-shortcode",
+  "description": "Format dates/times using a shortcode.",
+  "type": "wordpress-plugin",
+  "license": "GPL-2.0+",
+  "keywords": [ "WordPress", "shortcode", "date", "format" ],
+  "authors": [
+    {
+      "name": "Eric King",
+      "email": "eric@webdeveric.com",
+      "homepage": "http://webdeveric.com",
+      "role": "Developer"
+    }
+  ],
+  "support": {
+    "source": "https://github.com/webdeveric/date-format-shortcode",
+    "issues": "https://github.com/webdeveric/date-format-shortcode/issues"
+  },
+  "require": {
+    "composer/installers": "^1.0"
+  }
+}
