@@ -3,7 +3,7 @@
 Plugin Name: Date Format Shortcode
 Plugin Group: Shortcodes
 Plugin URI: http://phplug.in/
-Description: 
+Description: This plugin provides a shortcode that allows you to format a timestamp. Example: <code>[date-format formate="F j, Y" timestamp="+1 day"]</code>
 Version: 0.1.0
 Author: Eric King
 Author URI: http://webdeveric.com/

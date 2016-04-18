@@ -1,6 +1,6 @@
 {
   "name": "webdeveric/date-format-shortcode",
-  "description": "Format dates/times using a shortcode.",
+  "description": "This plugin provides a shortcode that allows you to format a timestamp.",
   "type": "wordpress-plugin",
   "license": "GPL-2.0+",
   "keywords": [ "WordPress", "shortcode", "date", "format" ],
